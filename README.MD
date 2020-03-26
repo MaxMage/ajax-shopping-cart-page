@@ -9,7 +9,7 @@ The module allows to update quantity on the  shopping cart page 'checkout/cart/'
 2. Enter following commands to install module:
 
    ```
-   composer require maxmage/ajax-shopping-cart-page
+   composer require maxmage/module-ajax-shopping-cart-page
    ```
 
 3. Enter following commands to enable module:
