@@ -1,9 +1,9 @@
 {
-  "name": "maxmage/module-ajax-shopping-cart-page",
+  "name": "maxmage/ajax-shopping-cart-page",
   "description": "Module for Magento 2 module which provide a possibility to disable customer registration on frontend",
   "require": {
-    "php": "7.0.2||7.0.4||~7.0.6||^7.1.0",
-    "magento/module-checkout": "100.3.*"
+    "php": "~7.1",
+    "magento/framework": "*"
   },
   "type": "magento2-module",
   "version": "1.0.1",
